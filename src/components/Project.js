@@ -36,6 +36,15 @@ const Project = () => {
       git_url: "https://github.com/arjun40779/pokemon",
       host_url: "https://v693jv-3000.csb.app/",
     },
+    {
+      id: 5,
+      img_url: "https://m.media-amazon.com/images/I/41oG9YdPj7L.jpg",
+      title: "Zee5-clone",
+      text: "ZEE5 is an Indian subscription video-on-demand and over-the-top streaming service, run by Zee Entertainment Enterprises. ",
+      git_url:
+        "https://github.com/arjun40779/Zee5-Cinema-Clone---React-Project-1---k0oz8rtzq0n9",
+      host_url: "https://zee5-clone-arjun4079.netlify.app/",
+    },
   ];
 
   return (
