@@ -9,17 +9,9 @@ const Project = () => {
       git_url: "https://github.com/arjun40779/weather",
       host_url: "https://g8c3r7.csb.app/",
     },
+
     {
       id: 2,
-      img_url:
-        "https://arjun40779.github.io/portfolio/project-icons/movieDeck.png",
-      title: "MovieDeck",
-      text: "Browse through large database of movies",
-      git_url: "https://github.com/arjun40779/MovieDeck",
-      host_url: "https://gvpjqz.csb.app/",
-    },
-    {
-      id: 3,
       img_url: "https://arjun40779.github.io/portfolio/project-icons/isro.png",
       title: "ISRO Centers",
       text: "Search for ISRO centers based on place, state and name",
@@ -27,14 +19,24 @@ const Project = () => {
         "https://github.com/arjun40779/ISRO-centres---Javascript-Project---uzvolykpmtfc",
       host_url: "https://grammatical-times.000webhostapp.com/index.html",
     },
+
     {
-      id: 4,
+      id: 3,
       img_url:
         "https://pm1.aminoapps.com/6318/e6e1d4ecd2f09f881dff5a7528efaae9c975ba69_hq.jpg",
       title: "Pokemon Kingdom",
       text: "Browse pokemon stasts ",
       git_url: "https://github.com/arjun40779/pokemon",
       host_url: "https://v693jv-3000.csb.app/",
+    },
+    {
+      id: 4,
+      img_url:
+        "https://arjun40779.github.io/portfolio/project-icons/movieDeck.png",
+      title: "MovieDeck",
+      text: "Browse through large database of movies",
+      git_url: "https://github.com/arjun40779/MovieDeck",
+      host_url: "https://gvpjqz.csb.app/",
     },
     {
       id: 5,
@@ -44,6 +46,16 @@ const Project = () => {
       git_url:
         "https://github.com/arjun40779/Zee5-Cinema-Clone---React-Project-1---k0oz8rtzq0n9",
       host_url: "https://zee5-clone-arjun4079.netlify.app/",
+    },
+    {
+      id: 6,
+      img_url:
+        "https://www.designnominees.com/application/upload/Websites/2022/02/beyoung-folks-private-limited-147.jpg",
+      title: "Beyoung-clone",
+      text: "Beyoung is an online shopping site for men's and women's clothing in India. They offer a wide range of options, including: Tees, Topwear, Shirts, Boxers, Sweatpants, Joggers, Chino pants, Jeans, Pyjamas, Formal pants.",
+      git_url:
+        "https://github.com/arjun40779/Beyoung---React-Project-2---aihcnvtyjvs7",
+      host_url: "https://beyoung-arjun40779.netlify.app/",
     },
   ];
 
